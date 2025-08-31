@@ -3,9 +3,9 @@ This is the official submission of team 4Stack for HACKOUT'25 organised by Dhiru
 The challenge track was coast warning system with dashboard, interactive map and notification system 
 
 The team members were
-Tirth Patel,
 Divy Mevada,
-Lakshya Mehta
+Tirth Patel [github](https://github.com/tirth1356),
+Lakshya Mehta [github](https://github.com/LakshyaMehta16)
 
 
 # 🌊 Coastal Alarm System
